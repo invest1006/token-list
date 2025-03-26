@@ -76,6 +76,15 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x170C84E3b1D282f9628229836086716141995200.png"
-    }
+    },
+     {
+  "name": "Thank Trump Token",
+  "symbol": "TRUMPX",
+  "address": "0xade28db316C2F215edB8BD78A07C24C607d4De9c",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://www.thanktrumptoken.com/logo.png"
+},
+
   ]
 }
